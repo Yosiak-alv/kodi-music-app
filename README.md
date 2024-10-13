@@ -1,9 +1,8 @@
-# Recetary Challenge
+# Kodi Music Challenge
 
-Hecho por Josias Alvarenga ._.
+Made by Josias Alvarenga ._.
 
-## Desarrollo
-Página desarrollada con:
+## Development 
 1. React
 2. Tailwind
 3. Formik
